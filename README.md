@@ -1,4 +1,3 @@
-just default branch, view my projects))
-Current projects:
-TexasPoker
-That's all!
+That's my first project
+I will sometimes change it
+You can watch him))
