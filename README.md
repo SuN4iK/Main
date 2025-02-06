@@ -1,1 +1,4 @@
-Дефолтная ветка, не заостряй внимание, лучше посмотри мои пока что развивающиеся проекты)))
+just default branch, view my projects))
+Current projects:
+TexasPoker
+That's all!
